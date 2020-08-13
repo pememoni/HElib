@@ -1,7 +1,7 @@
 HElib
 =====
 
-***August 2019:*** Improved noise managemebt in HElib.
+***August 2019:*** Improved noise management in HElib.
 Better and more robust bootstrapping algorithm.
 Ubuntu 18.04 Docker image with HElib and its dependencies. 
 See install instructions in [DOCKER_USAGE.md](DOCKER_USAGE.md)
